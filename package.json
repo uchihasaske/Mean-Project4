@@ -1,0 +1,23 @@
+{
+  "name": "angular-project4",
+  "version": "1.0.0",
+  "description": "Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihasaske/Mean-Project4.git"
+  },
+  "author": "Akash Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihasaske/Mean-Project4/issues"
+  },
+  "homepage": "https://github.com/uchihasaske/Mean-Project4#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.12.1"
+  }
+}
